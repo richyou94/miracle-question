@@ -1,0 +1,11 @@
+.background-image {
+  position: relative;
+  background-image: url(../../images/light-of-the-world.png);
+  background-size: cover;
+  background-position: center;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
